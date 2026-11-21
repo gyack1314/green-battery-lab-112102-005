@@ -1,0 +1,108 @@
+{
+  "synthetic": true,
+  "files": [
+    {
+      "path": "data/firmware.jsonl",
+      "rows": 2,
+      "columns": [
+        "channels",
+        "dictionary",
+        "offset",
+        "scale"
+      ],
+      "sha256": "d090f4dc644a274e1fff2ae730f38b4a954eb1c94d901589b996e4dc5f3aa1ba",
+      "stage": "original"
+    },
+    {
+      "path": "data/blocks.jsonl",
+      "rows": 2,
+      "columns": [
+        "bench",
+        "block",
+        "channel_count",
+        "crc32",
+        "dictionary",
+        "file",
+        "pack",
+        "run",
+        "sample_count",
+        "sha256",
+        "start"
+      ],
+      "sha256": "7c44935ef48e66db82c1ee6e5e3974a32106b91c5991f8d994d8a1d7631094c5",
+      "stage": "original"
+    },
+    {
+      "path": "data/bench_events.jsonl",
+      "rows": 7,
+      "columns": [
+        "bench",
+        "counter",
+        "event",
+        "kind",
+        "protocol",
+        "reached_cutoff",
+        "ref",
+        "run",
+        "time"
+      ],
+      "sha256": "d9e1c77787274583466d18279adb8a56d89b12dc670b139ca8c723ac7d696450",
+      "stage": "original"
+    },
+    {
+      "path": "data/assembly.jsonl",
+      "rows": 3,
+      "columns": [
+        "change",
+        "module",
+        "observed_at",
+        "pack",
+        "slot",
+        "valid_from",
+        "valid_to"
+      ],
+      "sha256": "aa3329597aa0f8e380fe00f141f065aba14c931a2a30aeeda0f692e34add5823",
+      "stage": "original"
+    },
+    {
+      "path": "data/modules.csv",
+      "rows": 2,
+      "columns": [
+        "module",
+        "production_lot",
+        "chemistry"
+      ],
+      "sha256": "aff2e4c798fa3db1e69a5fbb44f243a803ac4da7f518ef38318a33383da83954",
+      "stage": "original"
+    },
+    {
+      "path": "data/cohorts.jsonl",
+      "rows": 2,
+      "columns": [
+        "modules",
+        "protocol",
+        "request",
+        "side",
+        "temperature_max",
+        "temperature_min"
+      ],
+      "sha256": "c95348362b2891ff5f265344c62d8218b918f5dfe10a2344f49fd211459287ae",
+      "stage": "original"
+    },
+    {
+      "path": "data/updates/firmware.jsonl",
+      "rows": 1,
+      "columns": [
+        "channels",
+        "dictionary",
+        "observed_at",
+        "offset",
+        "revision",
+        "scale",
+        "supersedes"
+      ],
+      "sha256": "1a35702c5d61ce9798bd6a82fca8b04ec9811d194e916b737dd781fd3924f779",
+      "stage": "supplement"
+    }
+  ]
+}

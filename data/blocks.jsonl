@@ -1,0 +1,2 @@
+{"block":"K1","file":"blocks/K1.bin","dictionary":"FW1","bench":"T1","run":"RUN1","pack":"PACK1","start":"2026-10-01T00:00:00Z","sample_count":6,"channel_count":4,"sha256":"f8f9408e03a20215c4b2b0011b27e2ac08925a01bd0b6633cb51fecda7058648","crc32":3233088488}
+{"block":"K2","file":"blocks/K2.bin","dictionary":"FW2","bench":"T1","run":"RUN1","pack":"PACK1","start":"2026-10-02T00:00:00Z","sample_count":6,"channel_count":4,"sha256":"930490bd3df3281954ab3e4265a1c812b18145f56c6388d75acd353c2471f478","crc32":1575963596}

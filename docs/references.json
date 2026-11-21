@@ -1,0 +1,20 @@
+[
+  {
+    "source": "data/blocks.jsonl",
+    "source_key": "dictionary",
+    "target": "data/firmware.jsonl",
+    "target_key": "dictionary"
+  },
+  {
+    "source": "data/assembly.jsonl",
+    "source_key": "module",
+    "target": "data/modules.csv",
+    "target_key": "module"
+  },
+  {
+    "source": "data/cohorts.jsonl",
+    "source_key": "modules",
+    "target": "data/modules.csv",
+    "target_key": "module"
+  }
+]

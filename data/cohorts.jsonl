@@ -1,0 +1,2 @@
+{"request":"Q1","side":"treated","modules":["M1"],"temperature_min":20,"temperature_max":30,"protocol":"C1"}
+{"request":"Q1","side":"control","modules":["M1","M2"],"temperature_min":20,"temperature_max":30,"protocol":"C1"}

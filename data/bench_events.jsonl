@@ -1,0 +1,7 @@
+{"event":"E1","bench":"T1","run":"RUN1","kind":"start","time":"2026-10-01T00:00:00Z","counter":40,"protocol":"C1","ref":null,"reached_cutoff":false}
+{"event":"E2","bench":"T1","run":"RUN1","kind":"discharge_start","time":"2026-10-01T00:00:00Z","counter":40,"protocol":"C1","ref":null,"reached_cutoff":false}
+{"event":"E3","bench":"T1","run":"RUN1","kind":"discharge_end","time":"2026-10-01T00:05:00Z","counter":40,"protocol":"C1","ref":null,"reached_cutoff":true}
+{"event":"E4","bench":"T1","run":"RUN1","kind":"reset","time":"2026-10-01T12:00:00Z","counter":40,"protocol":"C1","ref":null,"reached_cutoff":false}
+{"event":"E5","bench":"T1","run":"RUN1","kind":"resume","time":"2026-10-02T00:00:00Z","counter":0,"protocol":"C1","ref":"E4","reached_cutoff":false}
+{"event":"E6","bench":"T1","run":"RUN1","kind":"discharge_start","time":"2026-10-02T00:00:00Z","counter":0,"protocol":"C1","ref":null,"reached_cutoff":false}
+{"event":"E7","bench":"T1","run":"RUN1","kind":"discharge_end","time":"2026-10-02T00:05:00Z","counter":0,"protocol":"C1","ref":null,"reached_cutoff":true}

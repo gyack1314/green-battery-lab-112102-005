@@ -1,0 +1,2 @@
+{"dictionary":"FW1","channels":["dt_seconds","current","voltage","temperature"],"scale":[1,0.01,0.01,0.1],"offset":[0,0,0,0]}
+{"dictionary":"FW2","channels":["dt_seconds","voltage","current","temperature"],"scale":[1,0.001,0.02,0.1],"offset":[0,0,0,0]}
